@@ -41,3 +41,5 @@ Implement four system calls as described in the papers, to be called by user pro
 •	A limit on the total number of messages sent by the process should be configurable and enforceable.<br>
 •	No other process should be able to interfere with communication (save ids).<br>
 •	Present sufficient test cases to show the correctness of the implementation.<br>
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
